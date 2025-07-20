@@ -11,5 +11,5 @@
 - 시각화
   - 상위 3개 지역의 인구 통계 데이터 병합 후 지도에 표시
 - 사용기술
- - Python (Google Colab)
- - Pandas, Folium
+  - Python (Google Colab)
+  - Pandas, Folium
