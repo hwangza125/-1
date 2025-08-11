@@ -1,4 +1,4 @@
-# mini projects
+# Google Colab projects
 포트폴리오를 위한 데이터 분석 프로젝트
 - 인기 메뉴 Top10
 - 한국의 음주 도수 분석
